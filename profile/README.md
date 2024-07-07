@@ -1,4 +1,4 @@
-# Hi-Windom
+# [Hi-Windom](https://github.com/Hi-Windom)
 
 ## 海兮（Ci·Hi_）
 
